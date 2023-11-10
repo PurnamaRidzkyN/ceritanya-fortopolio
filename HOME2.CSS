@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    position: relative;
+    background: #1E1E1E;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    height:  100vh;
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    text-align: center;
+}
+#awal{
+    width: 1135px;
+    height: 221px;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Ubuntu;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
+
+#bio{
+    margin-top: 0; 
+    color: #82C4F4;  
+    width: 207px;
+    height: 70px;
+    flex-shrink: 0;
+    background-color: #1E1E1E;
+    color: #82C4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 9px;
+    border: 1px solid #82C4F4;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+#Experience{
+    margin-top: 10px; 
+    color: #82C4F4;  
+    width: 207px;
+    height: 70px;
+    flex-shrink: 0;
+    background-color: #1E1E1E;
+    color: #82C4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 9px;
+    border: 1px solid #82C4F4;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+#History{
+    margin-top: 10px; 
+    color: #82C4F4;  
+    width: 207px;
+    height: 70px;
+    flex-shrink: 0;
+    background-color: #1E1E1E;
+    color: #82C4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 9px;
+    border: 1px solid #82C4F4;
+    margin-left: auto;
+    margin-right: auto;
+   
+}

@@ -51,5 +51,13 @@ body {
    
   }
   
+#about a {
+  text-decoration: none; 
+  color: inherit; 
+}
+
+#about a:hover {
+  color: #6FA8DC; 
+}
 
  
